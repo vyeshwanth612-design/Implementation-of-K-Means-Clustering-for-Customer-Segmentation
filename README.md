@@ -14,7 +14,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 4. 1. Predict temperature, PM2.5 and energy using the predict() function and display the results.
 
 ## Program:
-```
+```py
 
 import numpy as np
 from sklearn.ensemble import RandomForestRegressor
